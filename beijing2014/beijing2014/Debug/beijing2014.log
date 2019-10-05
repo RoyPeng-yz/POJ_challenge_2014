@@ -1,0 +1,6 @@
+﻿  BGCard.cpp
+  Billiards.cpp
+d:\programming\cccprogram\written_examination\beijing2014\beijing2014\billiards.cpp(53): warning C4305: “初始化”: 从“double”到“float”截断
+  magic.cpp
+  正在生成代码...
+  beijing2014.vcxproj -> D:\Programming\CCCprogram\Written_examination\beijing2014\Debug\beijing2014.exe
